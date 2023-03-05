@@ -10,4 +10,3 @@ function calculateResult() {
   const result = eval(document.getElementById("result").value);
   document.getElementById("result").value = result;
 }
-console.log(result);
